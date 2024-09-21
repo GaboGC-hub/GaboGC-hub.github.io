@@ -561,6 +561,7 @@ body{
 .contenedor {
     width: 90%;
     max-width: 900px;
+    margin-top: 200px;
     margin: auto;
     height: 100vh;
     display: flex;
